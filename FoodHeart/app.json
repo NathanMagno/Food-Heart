@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "FoodHeart",
+    "slug": "FoodHeart",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "android",
+      "backgroundColor": "#333333",
+      "image": "./assets/Logo.png"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nathan299.FoodHeart"
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "3c0d91ab-2ad4-4d49-bb43-8bb529383911"
+      }
+    }
+  }
+}
